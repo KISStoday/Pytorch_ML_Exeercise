@@ -1,4 +1,6 @@
-![image](https://github.com/KISStoday/Pytorch_ML_Exeercise/assets/38481122/7496c12f-1872-4125-8bb2-f0f9306c0afa)数据集为Kaggle挑战赛Carvana数据集
+![image](https://github.com/KISStoday/Pytorch_ML_Exeercise/assets/38481122/7496c12f-1872-4125-8bb2-f0f9306c0afa)
+
+数据集为Kaggle挑战赛Carvana数据集
 数据集地址：https://www.kaggle.com/datasets/ipythonx/carvana-image-masking-png
 下载后的数据集，需要进行手动切分，自行选定任意数量的图片和标注，作为验证集合。数据需要放在./data文件夹下，格式为：
 train_images
