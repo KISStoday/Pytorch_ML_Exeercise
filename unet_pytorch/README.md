@@ -16,5 +16,7 @@ cuda=11.3
 cudnn=8.4.0
 albumentations
 
+验证可视化结果存放在./save_images路径下
+
 视频地址：【使用 U-NET 的 PyTorch 图像分割教程】 https://www.bilibili.com/video/BV1Cz4y1J7hP/?share_source=copy_web&vd_source=52bf04ddd6ed585c177519e641c5cc75
 代码地址：https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/image_segmentation/semantic_segmentation_unet
